@@ -4,6 +4,8 @@
 - as you shoot glasses of water, you'll be met with thoughts and prayers. these are very effective, and *will* do damage.
 - the game ends when you die or when you are victorious over all of the zuccs
 
+# [**click here to download!**](https://github.com/alexyeet/zucc-shooter/releases/tag/v1.0.0) 
+
 ***
 
 ### instructions
