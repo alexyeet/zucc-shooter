@@ -1,7 +1,3 @@
-# zucc shooter
-welcome to the ultimate **_zucc_**
-
-***
 
 ## this is your hub for all things **_zucc_** **( ͡° ͜ʖ ͡°)**
 - you will play as congress and land hits on various moving zuccs
