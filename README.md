@@ -1,9 +1,9 @@
 # zucc shooter
-welcome to the ultimate **__zucc__**
+welcome to the ultimate **_zucc_**
 
 ***
 
-## this is your hub for all things **__zucc__** **( ͡° ͜ʖ ͡°)**
+## this is your hub for all things **_zucc_** **( ͡° ͜ʖ ͡°)**
 
 ***
 
