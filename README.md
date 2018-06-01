@@ -10,7 +10,7 @@ welcome to the ultimate **_zucc_**
 
 ***
 
-## instructions
+### instructions
 - shoot the zuccs. each zucc has a different health level, your score will increase accordingly
 - dodge the thoughts and prayers
 - look out for an orange man. you may be able to earn yourself some extra points! :^)
@@ -18,7 +18,7 @@ welcome to the ultimate **_zucc_**
 
 ***
 
-## controls 
+### controls 
 - press space to start the game
 - arrow keys to move congress left and right
 - space to shoot your glasses of water
