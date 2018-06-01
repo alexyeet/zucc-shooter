@@ -21,6 +21,11 @@
 
 *** 
 
+### demo 
+![alt text](https://raw.githubusercontent.com/alexyeet/zucc-shooter/master/start_screenshot2.png)
+![alt text but 2](https://raw.githubusercontent.com/alexyeet/zucc-shooter/master/in_game_screenshot2.png) 
+
+
 ### credits 
 - the whole game was made by me, alex, because i'm really cool
 - thanks mr cooper for assigning this assignment and instantly being better at the game than me
