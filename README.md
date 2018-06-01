@@ -23,5 +23,6 @@
 
 ### credits 
 - the whole game was made by me, alex, because i'm really cool
-- thanks mr cooper for assigning this assignment 
+- thanks mr cooper for assigning this assignment and instantly being better at the game than me
 - thank you to youtube user *Sheet Music Boss* for the song; [you can find it here!](https://www.youtube.com/watch?v=ADU5v9EZ2G8&t=16s)
+- thank you to this project for making me want to stab myself out of anger each and every day
